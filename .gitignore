@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+# misc
+# file: ~/.gitignore_global
+.DS_Store
+/env/.env
+
+# intellij configs
+/.idea/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
